@@ -4,4 +4,5 @@ abcd
 add func1
 add func2
 add 3
+add func3
 add func4
