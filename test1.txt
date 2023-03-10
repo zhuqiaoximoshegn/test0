@@ -8,3 +8,4 @@ add func3
 add func4
 add func5
 add 6
+add 7
